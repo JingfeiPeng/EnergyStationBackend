@@ -1,0 +1,59 @@
+{"message":"secretOrPrivateKey must have a value","stack":"Error: secretOrPrivateKey must have a value\n    at Object.module.exports [as sign] (C:\\NodeJs\\EnergyStationBackend\\node_modules\\jsonwebtoken\\sign.js:107:20)\n    at model.userSchema.methods.generateAuthToken (C:\\NodeJs\\EnergyStationBackend\\models\\user.js:34:16)\n    at router.post (C:\\NodeJs\\EnergyStationBackend\\routes\\auth.js:31:24)","level":"error","timestamp":"2019-04-17T22:12:45.751Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:14:36.514Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:14:37.555Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:14:43.592Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:14:44.668Z"}
+{"message":"secretOrPrivateKey must have a value","stack":"Error: secretOrPrivateKey must have a value\n    at Object.module.exports [as sign] (C:\\NodeJs\\EnergyStationBackend\\node_modules\\jsonwebtoken\\sign.js:107:20)\n    at model.userSchema.methods.generateAuthToken (C:\\NodeJs\\EnergyStationBackend\\models\\user.js:34:16)\n    at router.post (C:\\NodeJs\\EnergyStationBackend\\routes\\auth.js:31:24)","level":"error","timestamp":"2019-04-17T22:17:26.615Z"}
+{"message":"secretOrPrivateKey must have a value","stack":"Error: secretOrPrivateKey must have a value\n    at Object.module.exports [as sign] (C:\\NodeJs\\EnergyStationBackend\\node_modules\\jsonwebtoken\\sign.js:107:20)\n    at model.userSchema.methods.generateAuthToken (C:\\NodeJs\\EnergyStationBackend\\models\\user.js:34:16)\n    at router.post (C:\\NodeJs\\EnergyStationBackend\\routes\\auth.js:31:24)","level":"error","timestamp":"2019-04-17T22:17:47.813Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:18:54.850Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:18:55.907Z"}
+{"message":"secretOrPrivateKey must have a value","stack":"Error: secretOrPrivateKey must have a value\n    at Object.module.exports [as sign] (C:\\NodeJs\\EnergyStationBackend\\node_modules\\jsonwebtoken\\sign.js:107:20)\n    at model.userSchema.methods.generateAuthToken (C:\\NodeJs\\EnergyStationBackend\\models\\user.js:34:16)\n    at router.post (C:\\NodeJs\\EnergyStationBackend\\routes\\auth.js:31:24)","level":"error","timestamp":"2019-04-17T22:18:58.022Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:20:57.740Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:20:58.818Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:22:49.164Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:22:50.234Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:22:55.330Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:22:56.379Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:23:58.369Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:23:59.427Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:25:22.300Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:25:23.424Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:27:37.957Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:27:39.030Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:28:05.106Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:28:06.164Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:28:11.828Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:28:12.946Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:28:34.711Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:28:35.769Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:28:39.208Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:28:40.316Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:28:51.801Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:28:52.881Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:29:53.072Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:29:54.119Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:30:13.733Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:30:14.833Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:30:46.016Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:30:47.080Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:31:21.936Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:31:22.992Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:35:42.336Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:35:43.418Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:35:59.120Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:36:00.178Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:40:57.648Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:40:58.741Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:41:34.518Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:41:35.576Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:41:47.529Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:41:48.608Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:42:27.890Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:42:28.988Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-17T22:42:40.356Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-17T22:42:41.467Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-18T22:47:45.267Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-18T22:47:46.416Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-18T22:47:55.656Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-18T22:47:56.687Z"}
+{"message":"Unexpected string in JSON at position 59","stack":"SyntaxError: Unexpected string in JSON at position 59\n    at JSON.parse (<anonymous>)\n    at parse (C:\\NodeJs\\EnergyStationBackend\\node_modules\\body-parser\\lib\\types\\json.js:89:19)\n    at C:\\NodeJs\\EnergyStationBackend\\node_modules\\body-parser\\lib\\read.js:121:18\n    at invokeCallback (C:\\NodeJs\\EnergyStationBackend\\node_modules\\raw-body\\index.js:224:16)\n    at done (C:\\NodeJs\\EnergyStationBackend\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (C:\\NodeJs\\EnergyStationBackend\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:188:13)\n    at endReadableNT (_stream_readable.js:1129:12)\n    at process.internalTickCallback (internal/process/next_tick.js:72:19)","expose":true,"statusCode":400,"status":400,"body":"{\n\t\"name\":\"Jeffer Peng\",\n\t\"email\":\"pengjefferbms@gmail.com\"\",\n\t\"password\":\"12345\"\n}","type":"entity.parse.failed","level":"error","timestamp":"2019-04-18T22:48:04.969Z"}
