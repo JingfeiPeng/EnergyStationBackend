@@ -1,22 +1,23 @@
 const _ = require('lodash')
-const {User, validate } = require('../models/user')
+const {User, validate } = require('../models/ESuser')
+const {ActivityList} = require('../models/ESactivityList')
 const express = require('express');
 const router = express.Router();
-const mongoose = require('mongoose')
 const bcrypt = require('bcrypt')
 const auth = require('../middleware/auth') // authorization check if has permission
 
-// get the current web user, passing in json webtoken
+// get the current web user, passing in json webtoken in header.
 router.get('/me', auth, async (req,res)=>{
     const user = await User.findById(req.user._id).select('-password'); // got it from Auth function
     res.send(user);
 })
 
+
 // log out => client log out => delete JWT on client side then client is logged out
 // JWT tokens shouldn't be stored in database, if stored, should be encrypted
 // use Https to when sending tokens from client to server
 
-// registerAccount 
+// register
 router.post('/', async (req, res) => {
     const { error } = validate(req.body); 
     if (error) return res.status(400).send(error.details[0].message);
@@ -25,11 +26,13 @@ router.post('/', async (req, res) => {
     if (user) return res.status(400).send('User already registered.')
     // can use Joi-password-complexity for checking if password is complex enough
     user = new User(_.pick(req.body, ['name','email','password'])) 
-    const salt = await bcrypt.genSalt(10)
-    user.password = await bcrypt.hash(user.password, salt) //1234 is passowrd
+    const salt = await bcrypt.genSalt(10) // 10 relates to secruity level
+    user.password = await bcrypt.hash(user.password, salt) 
 
     await user.save();
     // return JWT in HTTP header in response
+    const activitylist = new ActivityList({accountEmail: req.body.email})
+    activitylist.save()
     const token = user.generateAuthToken();// first paramter is payload, secret private key
     res.header('x-auth-token',token).send(_.pick(user, ['_id','name','email']))
 

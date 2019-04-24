@@ -25,7 +25,18 @@ const ESuserSchema = new mongoose.Schema({
         minlength: 5,
         maxlength: 1024
     },
-    isAdmin: Boolean,
+    energyPoint: {
+        type: Number,
+        default: 0
+    },
+    profilePic:{
+        type:String,
+        default:''
+    },
+    backgroundPicture:{
+        type: String,
+        default: ''
+    }
     // roles:[],
     // operations:[{
     //     // create genre, delete genre
@@ -34,7 +45,7 @@ const ESuserSchema = new mongoose.Schema({
 
 ESuserSchema.methods.generateAuthToken = function(){ 
     // can't use => function, as => doesn't have their own this, this in => functions reference to the calling funciton
-    return jwt.sign({ _id: this._id,isAdmin: this.isAdmin}, config.get("jwtPrivateKey"))
+    return jwt.sign({ _id: this._id, name: this.name,email: this.email}, config.get("jwtPrivateKey"))
 }
 
 // create a model

@@ -1,5 +1,5 @@
 const _ = require('lodash')
-const {User } = require('../models/user')
+const {User } = require('../models/ESuser')
 const express = require('express');
 const router = express.Router();
 const bcrypt = require('bcrypt')
@@ -14,6 +14,11 @@ function validate(req) {
     return Joi.validate(req, schema);
 }
 
+
+// login: Takes:{
+//   email:'',
+//   password:''
+//}
 router.post('/', async (req, res) => {
     const { error } = validate(req.body); 
     if (error) return res.status(400).send(error.details[0].message);
@@ -29,7 +34,6 @@ router.post('/', async (req, res) => {
         last bit contains secret value on server, so when the content is changed, the secret is changed, the request becomes invalid
     */
     const token = user.generateAuthToken();
-    console.warn('Reached')
         /*
         {
         "_id": "5cae23e2791e6d1e68d7b697",
@@ -37,8 +41,6 @@ router.post('/', async (req, res) => {
         }
     */
     res.send(token) // valid login
-
-
 });
 
 
