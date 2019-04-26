@@ -44,8 +44,9 @@ const ESuserSchema = new mongoose.Schema({
 });
 
 ESuserSchema.methods.generateAuthToken = function(){ 
+    let privateKey = config.get("jwtPrivateKey") ? config.get("jwtPrivateKey") : 'StaticUnsafePrivateKey';
     // can't use => function, as => doesn't have their own this, this in => functions reference to the calling funciton
-    return jwt.sign({ _id: this._id, name: this.name,email: this.email}, config.get("jwtPrivateKey"))
+    return jwt.sign({ _id: this._id, name: this.name,email: this.email}, privateKey)
 }
 
 // create a model

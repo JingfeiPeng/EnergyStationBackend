@@ -1,4 +1,3 @@
 {
-    "jwtPrivateKey":"energyStation_jwtPrivateKey",
-    "RandomVariableTry":"RandomVariableTry"
+    "jwtPrivateKey":"energyStation_jwtPrivateKey"
 }
