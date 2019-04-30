@@ -397,3 +397,287 @@
 {"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T04:14:10.854Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T04:20:50.219Z"}
 {"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T04:20:51.264Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T04:30:21.931Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T04:30:22.964Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T16:31:02.720Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T16:31:03.767Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T17:05:23.529Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T17:05:24.646Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T17:05:51.523Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T17:05:52.640Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T17:06:07.580Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T17:06:08.665Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T17:06:13.269Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T17:06:14.338Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T17:06:18.787Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T17:06:19.875Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T17:06:27.935Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T17:06:29.019Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T17:06:46.977Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T17:06:48.070Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T17:07:09.888Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T17:07:10.987Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T17:09:25.219Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T17:09:26.278Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T17:09:38.983Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T17:09:40.052Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T17:09:50.327Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T17:09:51.378Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T17:10:48.743Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T17:10:49.793Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T17:11:05.638Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T17:11:06.695Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T17:11:10.085Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T17:11:11.180Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T17:13:29.280Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T17:13:30.374Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T17:14:23.760Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T17:14:24.833Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T19:04:53.260Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T19:04:54.389Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T19:04:58.431Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T19:04:59.532Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T19:05:04.762Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T19:05:05.876Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T19:05:14.897Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T19:05:15.952Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T19:05:32.037Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T19:05:33.147Z"}
+{"message":"res is not defined","stack":"ReferenceError: res is not defined\n    at router.get (C:\\NodeJs\\EnergyStationBackend\\routes\\ESUserRegister.js:19:5)\n    at process.internalTickCallback (internal/process/next_tick.js:77:7)","level":"error","timestamp":"2019-04-26T19:05:53.506Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T19:06:32.361Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T19:06:33.495Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T19:07:33.831Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T19:07:34.895Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T19:08:20.884Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T19:08:21.967Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T19:08:26.749Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T19:08:27.885Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T19:10:58.473Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T19:10:59.538Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-26T19:11:19.004Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-26T19:11:20.126Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T17:54:50.433Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T17:54:51.612Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:09:18.284Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:09:19.329Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:33:00.134Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:33:01.188Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:34:26.770Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:34:29.469Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:34:30.511Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:34:46.011Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:34:47.041Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:34:54.991Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:34:56.021Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:35:24.037Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:35:25.077Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:37:29.015Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:37:30.046Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:38:50.324Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:38:51.354Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:39:08.669Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:39:09.710Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:39:12.370Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:39:13.419Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:39:29.157Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:39:30.190Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:39:53.441Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:39:54.472Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:40:20.599Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:40:21.633Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:40:48.209Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:40:49.258Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:53:16.004Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:53:17.065Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:54:11.663Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:54:12.719Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:54:35.040Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:54:36.107Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:54:43.301Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:54:44.377Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:54:56.981Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:54:58.031Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:55:04.310Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:55:05.359Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:55:12.934Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:55:13.989Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:55:27.026Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:55:28.089Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:55:33.725Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:55:34.814Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:55:48.784Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:55:49.826Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:56:06.183Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:56:07.230Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:56:20.766Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:56:21.841Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:57:31.930Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:57:33.009Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:57:41.823Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:57:42.882Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:57:55.794Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:57:56.934Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:58:12.712Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:58:13.772Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:58:21.517Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:58:22.659Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:58:44.869Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:58:45.934Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T19:59:47.316Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T19:59:48.387Z"}
+{"message":"Cannot read property 'ActivityList' of undefined","stack":"TypeError: Cannot read property 'ActivityList' of undefined\n    at router.get (C:\\NodeJs\\EnergyStationBackend\\routes\\ESmainpulateActivityList.js:15:22)","level":"error","timestamp":"2019-04-28T20:01:42.148Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T20:02:27.741Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T20:02:28.792Z"}
+{"message":"Cannot read property 'ActivityList' of undefined","stack":"TypeError: Cannot read property 'ActivityList' of undefined\n    at router.get (C:\\NodeJs\\EnergyStationBackend\\routes\\ESmainpulateActivityList.js:14:22)","level":"error","timestamp":"2019-04-28T20:02:31.652Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T20:03:07.803Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T20:03:08.869Z"}
+{"message":"Cannot read property 'ActivityList' of undefined","stack":"TypeError: Cannot read property 'ActivityList' of undefined\n    at router.get (C:\\NodeJs\\EnergyStationBackend\\routes\\ESmainpulateActivityList.js:15:22)","level":"error","timestamp":"2019-04-28T20:03:12.871Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T20:04:16.066Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T20:04:17.132Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T20:04:27.749Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T20:04:28.782Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T20:07:49.755Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T20:07:50.813Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T20:08:11.682Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T20:08:12.731Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T20:08:22.714Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T20:08:23.768Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-28T20:12:30.720Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-28T20:12:31.758Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T18:31:43.838Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T18:31:44.930Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T18:33:33.736Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T18:33:34.829Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T18:33:47.535Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T18:33:48.628Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T18:34:08.507Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T18:34:09.599Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T18:36:22.100Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T18:36:23.239Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T18:36:51.929Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T18:36:53.038Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T18:37:02.770Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T18:37:03.908Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T18:37:20.981Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T18:37:22.059Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T18:38:44.247Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T18:38:45.348Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T18:41:24.039Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T18:41:25.143Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T18:42:51.189Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T18:42:52.252Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T18:52:58.479Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T18:52:59.576Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T18:54:21.309Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T18:54:22.379Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T18:55:04.898Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T18:55:06.045Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:19:59.678Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:20:00.774Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:21:48.999Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:21:50.156Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:22:06.662Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:22:07.712Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:22:16.354Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:22:17.406Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:22:27.390Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:22:28.454Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:22:34.019Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:22:35.163Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:34:47.528Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:34:48.631Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:34:57.183Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:34:58.272Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:36:11.961Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:36:13.055Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:36:45.634Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:36:46.733Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:36:55.779Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:36:56.871Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:39:20.833Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:39:21.924Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:39:41.960Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:39:43.073Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:40:04.200Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:40:05.384Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:40:17.755Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:40:18.859Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:41:18.569Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:41:19.701Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:41:31.667Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:41:32.820Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:41:57.927Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:41:59.017Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:43:04.357Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:43:05.451Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:43:14.608Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:43:15.719Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:43:24.819Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:43:25.947Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:43:45.157Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:43:46.277Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:44:28.653Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:44:29.825Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:45:11.164Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:45:12.287Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:45:38.210Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:45:39.314Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:46:37.322Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:46:38.442Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:48:37.051Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-29T22:48:40.916Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-29T22:48:42.002Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T03:16:29.989Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T03:16:31.031Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T03:16:55.524Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T03:16:56.576Z"}
+{"message":"Joi.Boolean is not a function","stack":"TypeError: Joi.Boolean is not a function\n    at validateFriend (C:\\NodeJs\\EnergyStationBackend\\models\\ESfriendlist.js:35:21)\n    at router.post (C:\\NodeJs\\EnergyStationBackend\\routes\\ESfriendList.js:21:23)\n    at newFn (C:\\NodeJs\\EnergyStationBackend\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\NodeJs\\EnergyStationBackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\NodeJs\\EnergyStationBackend\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (C:\\NodeJs\\EnergyStationBackend\\middleware\\auth.js:13:9)\n    at newFn (C:\\NodeJs\\EnergyStationBackend\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\NodeJs\\EnergyStationBackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\NodeJs\\EnergyStationBackend\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\NodeJs\\EnergyStationBackend\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\NodeJs\\EnergyStationBackend\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\NodeJs\\EnergyStationBackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\NodeJs\\EnergyStationBackend\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\NodeJs\\EnergyStationBackend\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\NodeJs\\EnergyStationBackend\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\NodeJs\\EnergyStationBackend\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\NodeJs\\EnergyStationBackend\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\NodeJs\\EnergyStationBackend\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\NodeJs\\EnergyStationBackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\NodeJs\\EnergyStationBackend\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\NodeJs\\EnergyStationBackend\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\NodeJs\\EnergyStationBackend\\node_modules\\express\\lib\\router\\index.js:335:12)","level":"error","timestamp":"2019-04-30T03:18:24.444Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T03:18:41.455Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T03:18:42.500Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T03:19:03.294Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T03:19:04.348Z"}
+{"message":"Cannot read property 'push' of undefined","stack":"TypeError: Cannot read property 'push' of undefined\n    at router.post (C:\\NodeJs\\EnergyStationBackend\\routes\\ESfriendList.js:26:10)","level":"error","timestamp":"2019-04-30T03:19:05.385Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T03:19:58.107Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T03:19:59.151Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T03:20:04.567Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T03:20:05.631Z"}
+{"message":"Cannot read property 'push' of undefined","stack":"TypeError: Cannot read property 'push' of undefined\n    at router.post (C:\\NodeJs\\EnergyStationBackend\\routes\\ESfriendList.js:27:10)","level":"error","timestamp":"2019-04-30T03:20:08.120Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T03:20:40.224Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T03:20:41.275Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T03:20:57.552Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T03:20:58.601Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T03:21:16.090Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T03:21:17.154Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T03:21:28.420Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T03:21:29.494Z"}
+{"message":"Cannot read property 'friendList' of undefined","stack":"TypeError: Cannot read property 'friendList' of undefined\n    at router.post (C:\\NodeJs\\EnergyStationBackend\\routes\\ESfriendList.js:26:27)","level":"error","timestamp":"2019-04-30T03:21:33.671Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T03:21:59.279Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T03:22:02.281Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T03:22:03.350Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T03:22:22.273Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T03:22:23.335Z"}
+{"message":"FriendList validation failed: friendList.0.sentBy: Path `sentBy` is required.","errors":{"friendList.0.sentBy":{"message":"Path `sentBy` is required.","name":"ValidatorError","properties":{"message":"Path `sentBy` is required.","type":"required","path":"sentBy"},"kind":"required","path":"sentBy"}},"_message":"FriendList validation failed","stack":"ValidationError: FriendList validation failed: friendList.0.sentBy: Path `sentBy` is required.\n    at new ValidationError (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\error\\validation.js:30:11)\n    at model.Document.invalidate (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\document.js:2112:32)\n    at EmbeddedDocument.invalidate (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\types\\embedded.js:290:29)\n    at p.doValidate.skipSchemaValidators (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\document.js:1975:17)\n    at C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\schematype.js:933:9\n    at process.internalTickCallback (internal/process/next_tick.js:70:11)","name":"ValidationError","level":"error","timestamp":"2019-04-30T03:22:25.384Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T03:58:09.840Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T03:58:10.894Z"}
+{"message":"FriendList validation failed: friendList.0.sentTo: Path `sentTo` is required.","errors":{"friendList.0.sentTo":{"message":"Path `sentTo` is required.","name":"ValidatorError","properties":{"message":"Path `sentTo` is required.","type":"required","path":"sentTo"},"kind":"required","path":"sentTo"}},"_message":"FriendList validation failed","stack":"ValidationError: FriendList validation failed: friendList.0.sentTo: Path `sentTo` is required.\n    at new ValidationError (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\error\\validation.js:30:11)\n    at model.Document.invalidate (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\document.js:2112:32)\n    at EmbeddedDocument.invalidate (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\types\\embedded.js:290:29)\n    at p.doValidate.skipSchemaValidators (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\document.js:1975:17)\n    at C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\schematype.js:933:9\n    at process.internalTickCallback (internal/process/next_tick.js:70:11)","name":"ValidationError","level":"error","timestamp":"2019-04-30T03:58:11.977Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T03:58:56.709Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T03:58:57.767Z"}
+{"message":"FriendList validation failed: friendList.0.sentTo: Path `sentTo` is required.","errors":{"friendList.0.sentTo":{"message":"Path `sentTo` is required.","name":"ValidatorError","properties":{"message":"Path `sentTo` is required.","type":"required","path":"sentTo"},"kind":"required","path":"sentTo"}},"_message":"FriendList validation failed","stack":"ValidationError: FriendList validation failed: friendList.0.sentTo: Path `sentTo` is required.\n    at new ValidationError (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\error\\validation.js:30:11)\n    at model.Document.invalidate (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\document.js:2112:32)\n    at EmbeddedDocument.invalidate (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\types\\embedded.js:290:29)\n    at p.doValidate.skipSchemaValidators (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\document.js:1975:17)\n    at C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\schematype.js:933:9\n    at process.internalTickCallback (internal/process/next_tick.js:70:11)","name":"ValidationError","level":"error","timestamp":"2019-04-30T03:59:02.742Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T03:59:46.922Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T03:59:47.975Z"}
+{"message":"FriendList validation failed: friendList.0.sentTo: Path `sentTo` is required.","errors":{"friendList.0.sentTo":{"message":"Path `sentTo` is required.","name":"ValidatorError","properties":{"message":"Path `sentTo` is required.","type":"required","path":"sentTo"},"kind":"required","path":"sentTo"}},"_message":"FriendList validation failed","stack":"ValidationError: FriendList validation failed: friendList.0.sentTo: Path `sentTo` is required.\n    at new ValidationError (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\error\\validation.js:30:11)\n    at model.Document.invalidate (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\document.js:2112:32)\n    at EmbeddedDocument.invalidate (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\types\\embedded.js:290:29)\n    at p.doValidate.skipSchemaValidators (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\document.js:1975:17)\n    at C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\schematype.js:933:9\n    at process.internalTickCallback (internal/process/next_tick.js:70:11)","name":"ValidationError","level":"error","timestamp":"2019-04-30T03:59:50.059Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T04:00:04.352Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T04:00:05.412Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T04:00:41.979Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T04:00:44.553Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T04:00:45.605Z"}
+{"message":"FriendList validation failed: friendList.0.sentTo: Path `sentTo` is required.","errors":{"friendList.0.sentTo":{"message":"Path `sentTo` is required.","name":"ValidatorError","properties":{"message":"Path `sentTo` is required.","type":"required","path":"sentTo"},"kind":"required","path":"sentTo"}},"_message":"FriendList validation failed","stack":"ValidationError: FriendList validation failed: friendList.0.sentTo: Path `sentTo` is required.\n    at new ValidationError (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\error\\validation.js:30:11)\n    at model.Document.invalidate (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\document.js:2112:32)\n    at EmbeddedDocument.invalidate (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\types\\embedded.js:290:29)\n    at p.doValidate.skipSchemaValidators (C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\document.js:1975:17)\n    at C:\\NodeJs\\EnergyStationBackend\\node_modules\\mongoose\\lib\\schematype.js:933:9\n    at process.internalTickCallback (internal/process/next_tick.js:70:11)","name":"ValidationError","level":"error","timestamp":"2019-04-30T04:00:48.890Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T04:01:41.152Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T04:01:42.202Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T04:01:51.239Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T04:01:52.305Z"}
+{"message":"req.send is not a function","stack":"TypeError: req.send is not a function\n    at router.post (C:\\NodeJs\\EnergyStationBackend\\routes\\ESfriendList.js:29:9)","level":"error","timestamp":"2019-04-30T04:01:54.634Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T04:02:09.583Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T04:02:10.624Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T04:05:22.844Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T04:05:23.909Z"}

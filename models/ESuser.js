@@ -25,7 +25,7 @@ const ESuserSchema = new mongoose.Schema({
         minlength: 5,
         maxlength: 1024
     },
-    energyPoint: {
+    energyPtr: {
         type: Number,
         default: 0
     },
@@ -33,7 +33,7 @@ const ESuserSchema = new mongoose.Schema({
         type:String,
         default:''
     },
-    backgroundPicture:{
+    backgroundPic:{
         type: String,
         default: ''
     }

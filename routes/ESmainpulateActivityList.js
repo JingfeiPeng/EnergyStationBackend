@@ -16,6 +16,8 @@ router.get('/',auth, async (req,res)=>{
 })
 
 
+
+
 // insert an activity
 router.post('/',auth,async (req,res)=>{
     // validate body
