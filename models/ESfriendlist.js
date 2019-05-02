@@ -37,5 +37,14 @@ function validateFriend(req){
     return Joi.validate(req,schema);
 }
 
+function validateResponse(req){
+    const schema = {
+        sentBy: Joi.string().min(1).max(100).required(),
+        accept: Joi.boolean().required()
+    }
+    return Joi.validate(req, schema)
+}
+
 module.exports.FriendList = FriendList;
 module.exports.validateFriend = validateFriend;
+module.exports.validateResponse = validateResponse;

@@ -681,3 +681,52 @@
 {"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T04:02:10.624Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2019-04-30T04:05:22.844Z"}
 {"level":"info","message":"Connected to MongoDB","timestamp":"2019-04-30T04:05:23.909Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T15:36:12.129Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T15:36:13.187Z"}
+{"message":"Unexpected token s in JSON at position 3","stack":"SyntaxError: Unexpected token s in JSON at position 3\n    at JSON.parse (<anonymous>)\n    at parse (C:\\NodeJs\\EnergyStationBackend\\node_modules\\body-parser\\lib\\types\\json.js:89:19)\n    at C:\\NodeJs\\EnergyStationBackend\\node_modules\\body-parser\\lib\\read.js:121:18\n    at invokeCallback (C:\\NodeJs\\EnergyStationBackend\\node_modules\\raw-body\\index.js:224:16)\n    at done (C:\\NodeJs\\EnergyStationBackend\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (C:\\NodeJs\\EnergyStationBackend\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:188:13)\n    at endReadableNT (_stream_readable.js:1129:12)\n    at process.internalTickCallback (internal/process/next_tick.js:72:19)","expose":true,"statusCode":400,"status":400,"body":"{\n\tsentBy\":\"JefferP@gmail.com\",\n\taccept:true\n}","type":"entity.parse.failed","level":"error","timestamp":"2019-05-01T15:39:16.791Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T15:40:03.028Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T15:40:04.070Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T16:12:27.498Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T16:12:28.563Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T16:13:24.708Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T16:13:25.757Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T16:14:20.371Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T16:14:21.422Z"}
+{"message":"senderList is not defined","stack":"ReferenceError: senderList is not defined\n    at router.put (C:\\NodeJs\\EnergyStationBackend\\routes\\ESfriendList.js:53:28)","level":"error","timestamp":"2019-05-01T16:14:29.181Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T16:14:52.542Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T16:14:53.597Z"}
+{"message":"Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at router.put (C:\\NodeJs\\EnergyStationBackend\\routes\\ESfriendList.js:60:18)","level":"error","timestamp":"2019-05-01T16:14:55.239Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T16:15:14.176Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T16:15:15.221Z"}
+{"message":"Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at router.put (C:\\NodeJs\\EnergyStationBackend\\routes\\ESfriendList.js:60:18)","level":"error","timestamp":"2019-05-01T16:15:17.505Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T16:15:35.220Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T16:15:36.266Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T16:16:29.402Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T16:16:30.456Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T16:17:05.272Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T16:17:06.306Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T16:51:56.576Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T16:51:57.609Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T16:52:03.630Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T16:52:04.678Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T16:52:30.128Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T16:52:31.182Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T16:53:57.851Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T16:53:58.903Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T16:54:15.658Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T16:54:16.717Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T16:55:15.859Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T16:55:17.014Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T16:57:08.777Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T16:57:09.831Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T16:57:13.213Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T16:57:14.259Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T16:57:31.024Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T16:57:32.055Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T17:00:27.880Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T17:00:28.912Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T17:00:32.798Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T17:00:33.831Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T17:00:55.364Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T17:00:56.390Z"}
+{"message":"Cannot set property 'accept' of undefined","stack":"TypeError: Cannot set property 'accept' of undefined\n    at router.put (C:\\NodeJs\\EnergyStationBackend\\routes\\ESfriendList.js:50:24)","level":"error","timestamp":"2019-05-01T17:00:57.950Z"}

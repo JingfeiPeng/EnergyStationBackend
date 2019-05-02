@@ -27,8 +27,16 @@
 
 // test()
 
-const date = new Date("2015")
-const date2 = new Date("2016")
-console.log(date)
-console.log(date2)
-console.log(date < date2)
+// const date = new Date("2015")
+// const date2 = new Date("2016")
+// console.log(date)
+// console.log(date2)
+// console.log(date < date2)
+
+class aClass{
+    x = 10
+}
+
+let obj = new aClass(1)
+console.log(obj.x)
+
