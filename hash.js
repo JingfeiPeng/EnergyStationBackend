@@ -33,10 +33,59 @@
 // console.log(date2)
 // console.log(date < date2)
 
-class aClass{
-    x = 10
+// class aClass{
+//     constructor(){
+//         this.x = 10;
+//     }
+// }
+
+// let obj = new aClass(1)
+// console.log(obj.x)
+
+// this.x = -1;
+
+let objInObj = {
+    x:10,
+    obj:{
+        x:100,
+        f: () =>{
+            console.log(this);
+            this.x = 1000;
+        }
+    },
+    func () {console.log(this)}
 }
 
-let obj = new aClass(1)
-console.log(obj.x)
+objInObj.func()
+
+// class funcInClass{
+//     constructor(){
+//         this.x = 10;
+//     }
+
+//     obj(){
+//         let x = 100;
+//         let f = () => {console.log(this.x)}
+//         return f;
+//     }
+// }
+
+// class MyClass {
+//     y = 2;
+//     static z = 3;
+//     showZ(){
+//         console.log(MyClass.z)
+//     }
+  
+// }
+
+// console.log( MyClass.z ); // 3
+// var b = new MyClass();
+// b.showZ()
+// objInObj.obj.f();
+// new funcInClass().obj()()
+
+
+
+
 

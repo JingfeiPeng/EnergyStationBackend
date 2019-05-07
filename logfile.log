@@ -730,3 +730,59 @@
 {"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-01T17:00:55.364Z"}
 {"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-01T17:00:56.390Z"}
 {"message":"Cannot set property 'accept' of undefined","stack":"TypeError: Cannot set property 'accept' of undefined\n    at router.put (C:\\NodeJs\\EnergyStationBackend\\routes\\ESfriendList.js:50:24)","level":"error","timestamp":"2019-05-01T17:00:57.950Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-02T00:30:58.841Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-02T00:30:59.882Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-03T03:47:09.413Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-03T03:47:10.532Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-03T03:47:18.694Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-03T03:47:19.747Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-04T02:51:22.029Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-04T02:51:23.091Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-04T20:44:12.010Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-04T20:44:13.080Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-06T01:42:37.391Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-06T01:42:38.462Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-06T01:57:19.792Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-06T01:57:20.848Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-06T01:57:32.992Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-06T01:57:34.040Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-06T01:58:39.170Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-06T01:58:40.220Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-06T01:58:46.462Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-06T01:58:47.505Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-06T02:02:22.386Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-06T02:02:23.435Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-06T02:11:20.380Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-06T02:11:21.413Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-06T02:12:04.527Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-06T02:12:05.566Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-06T02:12:20.142Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-06T02:12:21.180Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-06T02:54:50.834Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-06T02:54:51.874Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-07T04:55:48.443Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-07T04:55:49.470Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-07T05:09:27.071Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-07T05:09:28.107Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-07T05:10:55.547Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-07T05:10:56.577Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-07T05:11:26.352Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-07T05:11:27.395Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-07T05:11:33.559Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-07T05:11:34.596Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-07T05:11:39.454Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-07T05:11:40.500Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-07T05:11:54.694Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-07T05:11:55.729Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-07T05:12:17.574Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-07T05:12:18.618Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-07T05:12:30.752Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-07T05:12:31.795Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-07T17:58:01.945Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-07T17:58:03.032Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-07T17:58:30.063Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-07T17:58:31.131Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-07T18:02:56.386Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-07T18:02:57.458Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-05-07T18:05:36.259Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2019-05-07T18:05:37.370Z"}

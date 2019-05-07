@@ -20,7 +20,8 @@ router.get('/me', auth, async (req,res)=>{
 
 // fetch users and display their key info.
 router.get('/', async (req,res) =>{
-    const users = await User.find().sort({energyPtr: -1}).select('_id name energyPtr profilePic backgroundPic');
+    const users = await User.find().sort({energyPtr: -1}).select('_id email name energyPtr profilePic backgroundPic')
+    .sort({energyPtr:-1}); // sort user by their energy points
     res.send(users)
 })
 

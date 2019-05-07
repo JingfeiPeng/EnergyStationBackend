@@ -6,11 +6,11 @@ const  auth = require('../middleware/auth')
 
 // get the friend list of an user
 router.get('/friends',auth, async (req,res)=>{
-    const list = await FriendList.find({listOwner:req.user.email})
-    .select({friendList: 1,_id:0})
+    const list = await FriendList.findOne({listOwner:req.user.email})
+    // .select({friendList: 1,_id:0, energyPtr: 1})
     //or do .select('ActivityList -_id')
     // get the activity list directly
-    res.send(list)
+    res.send(list.friendList)
 })
 
 // sending a friendRequest
