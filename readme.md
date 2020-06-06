@@ -1,1 +1,1 @@
-#Must create jwtPrivateKey environment variable as a salf in JWT token creation
+#Must create jwtPrivateKey environment variable as a salt in JWT token creation
