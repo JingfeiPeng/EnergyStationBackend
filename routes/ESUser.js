@@ -8,6 +8,7 @@ const router = express.Router();
 const Fawn = require('fawn') // used for 2 phases commit
 const bcrypt = require('bcrypt')
 const auth = require('../middleware/auth') // authorization check if has permission
+const winston = require('winston')
 
 Fawn.init(mongoose)
 
@@ -62,6 +63,7 @@ router.post('/', async (req, res) => {
     }
 
     const token = user.generateAuthToken();// first paramter is payload, secret private key
+    winston.info(`Created account for ${req.body.email}`)
     res.header('x-auth-token',token).send(_.pick(user, ['_id','name','email']))
 
     // use lodash, a powerful javascript library to deal with strings, arrays
