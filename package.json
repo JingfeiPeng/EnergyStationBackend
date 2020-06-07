@@ -1,5 +1,5 @@
 {
-  "name": "vidly",
+  "name": "engerystationserver",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,17 +10,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.5",
-    "config": "^3.1.0",
-    "express": "^4.16.2",
+    "bcrypt": "^3.0.8",
+    "config": "^3.3.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
     "express-async-errors": "^3.1.1",
     "fawn": "^2.1.5",
-    "joi": "^13.1.0",
+    "joi": "^13.7.0",
     "joi-objectid": "^2.0.0",
     "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.11",
-    "mongoose": "^5.4.21",
-    "winston": "^2.4.0",
-    "winston-mongodb": "^3.0.0"
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.18",
+    "winston": "^2.4.4",
+    "winston-mongodb": "^3.0.2"
   }
 }

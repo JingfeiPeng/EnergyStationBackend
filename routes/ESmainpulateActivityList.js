@@ -4,7 +4,6 @@ const { ActivityList, validate } = require('../models/ESactivityList')
 const  auth = require('../middleware/auth')
 const admin = require('../middleware/admin')
 
-
 // get the activities list of an user
 router.get('/',auth, async (req,res)=>{
     const list = await ActivityList.find({accountEmail:req.user.email})
@@ -14,9 +13,6 @@ router.get('/',auth, async (req,res)=>{
     // get the activity list directly
     res.send(list[0].ActivityList)
 })
-
-
-
 
 // insert an activity
 router.post('/',auth,async (req,res)=>{
